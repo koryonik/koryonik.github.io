@@ -1,12 +1,16 @@
 # Site navigation links
 - title: Home
   url: /
+  icon: fa-home
 
 - title: Blog
   url: /blog/
+  icon: fa-paper-plane
 
 - title: About
   url: /about/
-  
+  icon: fa-user
+
 - title: Bookshelf
   url: /bookshelf
+  icon: fa-book

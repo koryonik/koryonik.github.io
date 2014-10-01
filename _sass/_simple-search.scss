@@ -69,7 +69,7 @@
     cursor: pointer;
     @include rounded(4px);
     background-color: transparent;
-    color: $alt-color;
+    color: lighten($text-color,30);
     &:hover {
     @include box-shadow($shadow: inset 0 0 1px $white);
       background-color: lighten($black, 10);
